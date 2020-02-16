@@ -1,0 +1,3082 @@
+[
+  {
+    "buildingIdentifier": "BUILDINGS_BL225",
+    "buildingCode": "BL036A",
+    "name": "309-311 N Park Ave",
+    "campus": "IUB",
+    "address": "309-311 N Park Ave",
+    "regCode": "ST",
+    "latitude": 39.16886951,
+    "longitude": -86.52483432,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL203",
+    "buildingCode": "BL197D",
+    "name": "316 N Jordan Ave",
+    "campus": "IUB",
+    "address": "316 N Jordan Ave",
+    "regCode": "SK",
+    "latitude": 39.16865615,
+    "longitude": -86.5157193,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL275",
+    "buildingCode": "BL207A",
+    "name": "324 N Jordan Ave",
+    "campus": "IUB",
+    "address": "324 N Jordan Ave",
+    "regCode": "HA",
+    "latitude": 39.16910009,
+    "longitude": -86.51566823,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL266",
+    "buildingCode": "BL207B",
+    "name": "326 N Jordan Ave",
+    "campus": "IUB",
+    "address": "326 N Jordan Ave",
+    "regCode": "AP",
+    "latitude": 39.16928519,
+    "longitude": -86.51568719,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL386",
+    "buildingCode": "BL296",
+    "name": "3rd & Union Apartments",
+    "campus": "IUB",
+    "address": "290 S Union Street",
+    "regCode": "UA",
+    "latitude": 39.16459186,
+    "longitude": -86.51016974,
+    "labs": [{ "buildingCode": "UA", "campus": "IUB", "roomNumber": "015", "macTotal": 0, "windowsTotal": 5, "linuxTotal": 0 }],
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL100",
+    "buildingCode": "BL027D",
+    "name": "509 E 3rd St",
+    "campus": "IUB",
+    "address": "509 E 3rd St",
+    "regCode": "IE",
+    "latitude": 39.16459371,
+    "longitude": -86.52784751,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL49",
+    "buildingCode": "BL025B",
+    "name": "618 E 3rd St",
+    "campus": "IUB",
+    "address": "618 E 3rd St",
+    "regCode": "PJ",
+    "latitude": 39.16404494,
+    "longitude": -86.52652201,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL358",
+    "buildingCode": "BL042D",
+    "name": "704 E 10TH ST",
+    "campus": "IUB",
+    "address": "704 E 10TH ST",
+    "regCode": "SU",
+    "latitude": 39.17152583,
+    "longitude": -86.52534203,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL393",
+    "buildingCode": "BL013B",
+    "name": "705 E 7th Street",
+    "campus": "IUB",
+    "address": "705 E 7th Street",
+    "regCode": "DX",
+    "latitude": 39.16871505,
+    "longitude": -86.52528139,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL400",
+    "buildingCode": "BL049D",
+    "name": "715 E 8th St",
+    "campus": "IUB",
+    "address": "715 E 8th St",
+    "regCode": "HG",
+    "latitude": 39.16969976,
+    "longitude": -86.52502298,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL199",
+    "buildingCode": "BL065B",
+    "name": "814 E 3rd St",
+    "campus": "IUB",
+    "address": "814 E 3rd St",
+    "regCode": "KD",
+    "latitude": 39.16385575,
+    "longitude": -86.52329199,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL103",
+    "buildingCode": "BL198",
+    "name": "Admissions Office",
+    "campus": "IUB",
+    "address": "300 N Jordan Ave",
+    "regCode": "OA",
+    "latitude": 39.16825899,
+    "longitude": -86.51565555,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL311",
+    "buildingCode": "BL407",
+    "name": "Alumni Center, Virgil T. DeVault",
+    "campus": "IUB",
+    "address": "1000 E 17th St",
+    "regCode": "AM",
+    "latitude": 39.17872497,
+    "longitude": -86.52181159,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL92",
+    "buildingCode": "BL652G",
+    "name": "American History, Journal of",
+    "campus": "IUB",
+    "address": "1215 E Atwater Ave",
+    "regCode": "R2",
+    "latitude": 39.16333119,
+    "longitude": -86.51860908,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL271",
+    "buildingCode": "BL014K",
+    "name": "American Indian Studies Research Institute",
+    "campus": "IUB",
+    "address": "422 N Indiana Ave",
+    "regCode": "AG",
+    "latitude": 39.17034001,
+    "longitude": -86.52667689,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL367",
+    "buildingCode": "BL594",
+    "name": "Andy Mohr Field",
+    "campus": "IUB",
+    "address": "1873 N Fee Lane",
+    "regCode": "SC",
+    "latitude": 39.18421626,
+    "longitude": -86.52029104,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL59",
+    "buildingCode": "BL161A",
+    "name": "Arboretum",
+    "campus": "IUB",
+    "address": "Arboretum",
+    "regCode": "AR",
+    "latitude": 39.16990638,
+    "longitude": -86.52013061,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL10",
+    "buildingCode": "BL205",
+    "name": "Arboretum Gazebo",
+    "campus": "IUB",
+    "address": "E 10th St",
+    "regCode": "GZ",
+    "latitude": 39.17102349,
+    "longitude": -86.51792908,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL293",
+    "buildingCode": "BL401C",
+    "name": "Asian Culture Center",
+    "campus": "IUB",
+    "address": "807 E 10th St",
+    "regCode": "A3",
+    "latitude": 39.1718233,
+    "longitude": -86.52426712,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL380",
+    "buildingCode": "BL062",
+    "name": "Atwater Eye Care Center",
+    "campus": "IUB",
+    "address": "744 E 3rd St",
+    "regCode": "CL",
+    "latitude": 39.1637799,
+    "longitude": -86.52418981,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL387",
+    "buildingCode": "BL171",
+    "name": "Auditorium",
+    "campus": "IUB",
+    "address": "1211 E 7th St",
+    "regCode": "AD",
+    "latitude": 39.16844452,
+    "longitude": -86.51785805,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL290",
+    "buildingCode": "BL111",
+    "name": "Ballantine Hall",
+    "campus": "IUB",
+    "address": "1020 E Kirkwood Ave",
+    "regCode": "BH",
+    "latitude": 39.1662031,
+    "longitude": -86.52135968,
+    "labs": [
+      { "buildingCode": "BH", "campus": "IUB", "roomNumber": "104", "macTotal": 0, "windowsTotal": 28, "linuxTotal": 0 },
+      { "buildingCode": "BH", "campus": "IUB", "roomNumber": "107", "macTotal": 0, "windowsTotal": 23, "linuxTotal": 0 },
+      { "buildingCode": "BH", "campus": "IUB", "roomNumber": "108", "macTotal": 0, "windowsTotal": 24, "linuxTotal": 0 },
+      { "buildingCode": "BH", "campus": "IUB", "roomNumber": "115", "macTotal": 0, "windowsTotal": 35, "linuxTotal": 0 },
+      { "buildingCode": "BH", "campus": "IUB", "roomNumber": "117", "macTotal": 0, "windowsTotal": 20, "linuxTotal": 0 },
+      { "buildingCode": "BH", "campus": "IUB", "roomNumber": "118", "macTotal": 0, "windowsTotal": 24, "linuxTotal": 0 },
+      { "buildingCode": "BH", "campus": "IUB", "roomNumber": "199", "macTotal": 0, "windowsTotal": 2, "linuxTotal": 0 },
+      { "buildingCode": "BH", "campus": "IUB", "roomNumber": "308", "macTotal": 0, "windowsTotal": 21, "linuxTotal": 0 }
+    ],
+    "diningLocations": [
+      {
+        "diningId": 14,
+        "name": "Campus Cafe at Ballantine Hall",
+        "description": "Quick, convenient campus cafe offering made-to-order paninis, salads, and Hubbard & Cravens coffee.",
+        "hours": null,
+        "status": null
+      }
+    ]
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL284",
+    "buildingCode": "BL539",
+    "name": "Banta Apartments",
+    "campus": "IUB",
+    "address": "1130  N Union Ct",
+    "regCode": "BA",
+    "latitude": 39.17547787,
+    "longitude": -86.50834028,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL213",
+    "buildingCode": "BL282",
+    "name": "Barnes Lounge (Ashton Center)",
+    "campus": "IUB",
+    "address": "1786 E 10th St",
+    "regCode": "BL",
+    "latitude": 39.1700225,
+    "longitude": -86.51169282,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL368",
+    "buildingCode": "BL593",
+    "name": "Bart Kaufman Field",
+    "campus": "IUB",
+    "address": "1873 N Fee Lane",
+    "regCode": "BK",
+    "latitude": 39.18487029,
+    "longitude": -86.52293369,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL190",
+    "buildingCode": "BL095",
+    "name": "Beck Chapel",
+    "campus": "IUB",
+    "address": "1001 E Kirkwood Ave",
+    "regCode": "BE",
+    "latitude": 39.16705337,
+    "longitude": -86.52189767,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL337",
+    "buildingCode": "BL276F",
+    "name": "Beech Hall (Union Street Center)",
+    "campus": "IUB",
+    "address": "1801 E 7th St",
+    "regCode": "AF",
+    "latitude": 39.16854837,
+    "longitude": -86.5105821,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL267",
+    "buildingCode": "BL519",
+    "name": "Bicknell Apartments",
+    "campus": "IUB",
+    "address": "1120 N Union Ct",
+    "regCode": "BI",
+    "latitude": 39.17625411,
+    "longitude": -86.5088409,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL340",
+    "buildingCode": "BL276B",
+    "name": "Birch Hall (Union Street Center)",
+    "campus": "IUB",
+    "address": "1800 E 10th St",
+    "regCode": "AB",
+    "latitude": 39.17052431,
+    "longitude": -86.51067769,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL282",
+    "buildingCode": "BL433",
+    "name": "Briscoe Quadrangle",
+    "campus": "IUB",
+    "address": "1225 N Fee Ln",
+    "regCode": "BQ",
+    "latitude": 39.17836913,
+    "longitude": -86.51984434,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL121",
+    "buildingCode": "BL005",
+    "name": "Bryan Hall",
+    "campus": "IUB",
+    "address": "107 S Indiana Ave",
+    "regCode": "BY",
+    "latitude": 39.16612047,
+    "longitude": -86.52655989,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL456",
+    "buildingCode": "BL135",
+    "name": "Bryan House",
+    "campus": "IUB",
+    "address": "Bryan House",
+    "regCode": "BX",
+    "latitude": 39.16684094,
+    "longitude": -86.51927754,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL219",
+    "buildingCode": "BL576",
+    "name": "Campus Children's Center",
+    "campus": "IUB",
+    "address": "2613 E 10th St",
+    "regCode": "CW",
+    "latitude": 39.17504321,
+    "longitude": -86.50201915,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL131",
+    "buildingCode": "BL529",
+    "name": "Campus View Apartments",
+    "campus": "IUB",
+    "address": "800 N Union St",
+    "regCode": "CP",
+    "latitude": 39.17365913,
+    "longitude": -86.50895348,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL268",
+    "buildingCode": "BL465B",
+    "name": "Career Development Center",
+    "campus": "IUB",
+    "address": "625 N Jordan Ave",
+    "regCode": "PC",
+    "latitude": 39.17237925,
+    "longitude": -86.51597579,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL464",
+    "buildingCode": "BL005C",
+    "name": "Carmichael Center",
+    "campus": "IUB",
+    "address": "530 E Kirkwood Ave",
+    "regCode": "C3",
+    "latitude": 39.16626834,
+    "longitude": -86.5272666,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL335",
+    "buildingCode": "BL276C",
+    "name": "Cedar Hall (Union Street Center)",
+    "campus": "IUB",
+    "address": "445 N Union St",
+    "regCode": "AC",
+    "latitude": 39.17065203,
+    "longitude": -86.50980913,
+    "labs": null,
+    "diningLocations": [
+      {
+        "diningId": 13,
+        "name": "Union Street Market",
+        "description": "Convenience store with breakfast fruit and yogurt bar, made-to-order sandwiches, Mighty Naan flatbread pizza, natural foods, and a salad and hot bar for lunch and dinner",
+        "hours": null,
+        "status": null
+      }
+    ]
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL305",
+    "buildingCode": "BL009C",
+    "name": "Center on Representative Government",
+    "campus": "IUB",
+    "address": "201 N Indiana Ave",
+    "regCode": "M3",
+    "latitude": 39.1677922,
+    "longitude": -86.52717004,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL84",
+    "buildingCode": "BL411",
+    "name": "Central Chilled Water Plant",
+    "campus": "IUB",
+    "address": "920 E 13th St",
+    "regCode": "X1",
+    "latitude": 39.17493764,
+    "longitude": -86.52291322,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL183",
+    "buildingCode": "BL445",
+    "name": "Central Heating Plant / Power Plant",
+    "campus": "IUB",
+    "address": "820 N Walnut Grove Ave",
+    "regCode": "PW",
+    "latitude": 39.17363723,
+    "longitude": -86.52016238,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL134",
+    "buildingCode": "BL071",
+    "name": "Chemistry, Department of",
+    "campus": "IUB",
+    "address": "800 E Kirkwood Ave",
+    "regCode": "CH",
+    "latitude": 39.16613059,
+    "longitude": -86.52258115,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL18",
+    "buildingCode": "BL066",
+    "name": "Classroom Office Building",
+    "campus": "IUB",
+    "address": "800 E 3rd St",
+    "regCode": "C2",
+    "latitude": 39.16376629,
+    "longitude": -86.52378726,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL32",
+    "buildingCode": "BL044M",
+    "name": "Cognitive Sciences",
+    "campus": "IUB",
+    "address": "510-512 N Fess Ave",
+    "regCode": "C9",
+    "latitude": 39.1709816,
+    "longitude": -86.52552299,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL334",
+    "buildingCode": "BL607",
+    "name": "Cook Hall",
+    "campus": "IUB",
+    "address": "1051 E 17th St",
+    "regCode": "BD",
+    "latitude": 39.18007962,
+    "longitude": -86.52091516,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL295",
+    "buildingCode": "BL045",
+    "name": "Cravens Hall (Collins Living-Learning Center)",
+    "campus": "IUB",
+    "address": "541 N Woodlawn Ave",
+    "regCode": "ME",
+    "latitude": 39.17147251,
+    "longitude": -86.52400686,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL361",
+    "buildingCode": "BL578",
+    "name": "Cyberinfrastructure Building (CIB)",
+    "campus": "IUB",
+    "address": "2709 E 10th St",
+    "regCode": "CR",
+    "latitude": 39.17226129,
+    "longitude": -86.50173224,
+    "labs": null,
+    "diningLocations": [
+      {
+        "diningId": 15,
+        "name": "Campus Cafe at Cyberinfrastructure Building",
+        "description": "Cafe offering made-to-order paninis, Mighty Naan flatbread pizza, Starbucks coffee and espresso, and more",
+        "hours": null,
+        "status": null
+      }
+    ]
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL353",
+    "buildingCode": "BL276E",
+    "name": "Cypress Hall (Union Street Center)",
+    "campus": "IUB",
+    "address": "425 N Union St",
+    "regCode": "AE",
+    "latitude": 39.1694717,
+    "longitude": -86.51060788,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL232",
+    "buildingCode": "BL579",
+    "name": "Data Center",
+    "campus": "IUB",
+    "address": "2737 E 10th St",
+    "regCode": "DC",
+    "latitude": 39.17438062,
+    "longitude": -86.50067954,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL316",
+    "buildingCode": "BL279",
+    "name": "Dreiser Hall (Ashton Center)",
+    "campus": "IUB",
+    "address": "1780 E 10th St",
+    "regCode": "DR",
+    "latitude": 39.17051455,
+    "longitude": -86.51116169,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL331",
+    "buildingCode": "BL043",
+    "name": "Edmondson Hall (Collins Living-Learning Center)",
+    "campus": "IUB",
+    "address": "541 N Woodlawn Ave",
+    "regCode": "EO",
+    "latitude": 39.17118606,
+    "longitude": -86.52443789,
+    "labs": [{ "buildingCode": "EO", "campus": "IUB", "roomNumber": "199", "macTotal": 0, "windowsTotal": 2, "linuxTotal": 0 }],
+    "diningLocations": [
+      {
+        "diningId": 46,
+        "name": "Market",
+        "description": "Convenience store with made-to-order sandwiches, natural foods, paninis, Hubbard & Cravens coffee, and wraps",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 47,
+        "name": "Grill",
+        "description": "Made-to-order breakfast and lunch items, including breakfast sandwiches, vegan burgers, and more",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 48,
+        "name": "Lunch Hot Bar and Salad Bar",
+        "description": "Lunch hot bar and salad bar (priced per pound)",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 49,
+        "name": "Dinner Buffet",
+        "description": "All-you-care-to-eat dining with a variety of vegan and vegetarian options",
+        "hours": null,
+        "status": null
+      }
+    ]
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL254",
+    "buildingCode": "BL313",
+    "name": "Eigenmann Hall",
+    "campus": "IUB",
+    "address": "1900 & 1910 E 10th St",
+    "regCode": "EG",
+    "latitude": 39.17090197,
+    "longitude": -86.50862246,
+    "labs": [
+      { "buildingCode": "EG", "campus": "IUB", "roomNumber": "100", "macTotal": 0, "windowsTotal": 12, "linuxTotal": 0 },
+      { "buildingCode": "EG", "campus": "IUB", "roomNumber": "101", "macTotal": 0, "windowsTotal": 1, "linuxTotal": 0 }
+    ],
+    "diningLocations": [
+      {
+        "diningId": 12,
+        "name": "Hoosier Store at Eigenmann",
+        "description": "Value-priced convenience store offering household essentials, groceries, and locally-prepared Fresh Fork healthy meals.",
+        "hours": null,
+        "status": null
+      }
+    ]
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL217",
+    "buildingCode": "BL075",
+    "name": "Ernie Pyle Hall (School of Journalism)",
+    "campus": "IUB",
+    "address": "940 E 7th St",
+    "regCode": "EP",
+    "latitude": 39.16818827,
+    "longitude": -86.52303107,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL210",
+    "buildingCode": "BL543",
+    "name": "Evermann Apartments",
+    "campus": "IUB",
+    "address": "2001 E Lingelbach Ln",
+    "regCode": "EV",
+    "latitude": 39.17725838,
+    "longitude": -86.5086553,
+    "labs": [
+      { "buildingCode": "EV", "campus": "IUB", "roomNumber": "121", "macTotal": 0, "windowsTotal": 15, "linuxTotal": 0 },
+      { "buildingCode": "EV", "campus": "IUB", "roomNumber": "199", "macTotal": 0, "windowsTotal": 1, "linuxTotal": 0 }
+    ],
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL328",
+    "buildingCode": "BL609F",
+    "name": "Field Hockey Clubhouse, Ireland Family",
+    "campus": "IUB",
+    "address": "1550 N Fee Ln",
+    "regCode": "FI",
+    "latitude": 39.17995399,
+    "longitude": -86.51553787,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL7",
+    "buildingCode": "BL604",
+    "name": "Fieldhouse, Harry Gladstein Indoor Track Facility",
+    "campus": "IUB",
+    "address": "1101 E 17th St",
+    "regCode": "NF",
+    "latitude": 39.18087127,
+    "longitude": -86.52041756,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL433",
+    "buildingCode": "BL157",
+    "name": "Fine Arts",
+    "campus": "IUB",
+    "address": "1201 E 7th St",
+    "regCode": "FA",
+    "latitude": 39.16911071,
+    "longitude": -86.51891888,
+    "labs": [
+      { "buildingCode": "FA", "campus": "IUB", "roomNumber": "004", "macTotal": 20, "windowsTotal": 0, "linuxTotal": 0 },
+      { "buildingCode": "FA", "campus": "IUB", "roomNumber": "137", "macTotal": 23, "windowsTotal": 0, "linuxTotal": 0 },
+      { "buildingCode": "FA", "campus": "IUB", "roomNumber": "215", "macTotal": 18, "windowsTotal": 19, "linuxTotal": 0 }
+    ],
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL34",
+    "buildingCode": "BL409",
+    "name": "Fine Arts Studio Building",
+    "campus": "IUB",
+    "address": "802 E 13th St",
+    "regCode": "AZ",
+    "latitude": 39.17494301,
+    "longitude": -86.52415134,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL152",
+    "buildingCode": "BL044P",
+    "name": "Folklore Institute",
+    "campus": "IUB",
+    "address": "504 N Fess Ave",
+    "regCode": "FK",
+    "latitude": 39.17069325,
+    "longitude": -86.52552277,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL389",
+    "buildingCode": "BL257",
+    "name": "Forest Quadrangle",
+    "campus": "IUB",
+    "address": "1725 E 3rd St",
+    "regCode": "FR",
+    "latitude": 39.16495215,
+    "longitude": -86.51246573,
+    "labs": null,
+    "diningLocations": [
+      {
+        "diningId": 29,
+        "name": "A Cut Above",
+        "description": "Chophouse with grilled-to-order meats and fish",
+        "hours": null,
+        "status": null
+      },
+      { "diningId": 30, "name": "Bloomingberry", "description": "Custom frozen smoothies and yogurt", "hours": null, "status": null },
+      { "diningId": 31, "name": "Caliente", "description": "Old world Latin recipes with a modern flair", "hours": null, "status": null },
+      {
+        "diningId": 32,
+        "name": "Fusion",
+        "description": "A flavor adventure of rotating international cuisine",
+        "hours": null,
+        "status": null
+      },
+      { "diningId": 33, "name": "Mangia", "description": "Ciao Down—Enjoy fresh Italian classics", "hours": null, "status": null },
+      {
+        "diningId": 34,
+        "name": "Romaine",
+        "description": "An expansive build-your-own salad bar, homemade soups, and signature salads made fresh for you",
+        "hours": null,
+        "status": null
+      },
+      { "diningId": 35, "name": "The Clubhouse", "description": "Breakfast, sandwiches, and more", "hours": null, "status": null },
+      {
+        "diningId": 36,
+        "name": "The Round",
+        "description": "Espresso bar with breakfast pastries, flatbread pizza and treats, and Starbucks coffee",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 37,
+        "name": "The Stone Grill",
+        "description": "Authentic burgers, chicken sandwiches, and more",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 75,
+        "name": "Woodland Traditional Summer Meals - Breakfast",
+        "description": "Traditional summer meal for breakfast",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 76,
+        "name": "Woodland Traditional Summer Meals - Lunch",
+        "description": "Traditional summer meal for lunch",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 77,
+        "name": "Woodland Traditional Summer Meals - Dinner",
+        "description": "Traditional summer meal for dinner",
+        "hours": null,
+        "status": null
+      }
+    ]
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL421",
+    "buildingCode": "BL810",
+    "name": "Foundation, IU",
+    "campus": "IUB",
+    "address": "1500 N State Road  45 46 Bypass",
+    "regCode": "FO",
+    "latitude": 39.18469269,
+    "longitude": -86.51277216,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL241",
+    "buildingCode": "BL007",
+    "name": "Franklin Hall",
+    "campus": "IUB",
+    "address": "601 E Kirkwood Ave",
+    "regCode": "FF",
+    "latitude": 39.1670253,
+    "longitude": -86.52640607,
+    "labs": [{ "buildingCode": "FF", "campus": "IUB", "roomNumber": "052", "macTotal": 0, "windowsTotal": 20, "linuxTotal": 0 }],
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL144",
+    "buildingCode": "BL405D",
+    "name": "Geological Materials Testing",
+    "campus": "IUB",
+    "address": "915 E 11th St",
+    "regCode": "GM",
+    "latitude": 39.17367959,
+    "longitude": -86.52279043,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL260",
+    "buildingCode": "BL406",
+    "name": "Geological Survey Core Library",
+    "campus": "IUB",
+    "address": "822 E 12th St",
+    "regCode": "CO",
+    "latitude": 39.17416625,
+    "longitude": -86.52390201,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL355",
+    "buildingCode": "BL418",
+    "name": "Geological Survey, Indiana",
+    "campus": "IUB",
+    "address": "611 N Walnut Grove",
+    "regCode": "GS",
+    "latitude": 39.17222602,
+    "longitude": -86.5213861,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL202",
+    "buildingCode": "BL417",
+    "name": "Geology, Department of",
+    "campus": "IUB",
+    "address": "1001 E 10th St",
+    "regCode": "GY",
+    "latitude": 39.17195578,
+    "longitude": -86.52180696,
+    "labs": [{ "buildingCode": "GY", "campus": "IUB", "roomNumber": "226", "macTotal": 0, "windowsTotal": 30, "linuxTotal": 0 }],
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL323",
+    "buildingCode": "BL013",
+    "name": "Glenn A. Black Laboratory of Archaeology",
+    "campus": "IUB",
+    "address": "423 N Fess Ave",
+    "regCode": "GL",
+    "latitude": 39.17021014,
+    "longitude": -86.52614915,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL280",
+    "buildingCode": "BL571",
+    "name": "Global NOC Building",
+    "campus": "IUB",
+    "address": "2715 E 10th St",
+    "regCode": "T2",
+    "latitude": 39.17300047,
+    "longitude": -86.50093453,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL289",
+    "buildingCode": "BL561",
+    "name": "Golf Clubhouse (Wegmiller)",
+    "campus": "IUB",
+    "address": "1350 N SR 45/46 BYP",
+    "regCode": "GO",
+    "latitude": 39.17892015,
+    "longitude": -86.50592042,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL209",
+    "buildingCode": "BL561A",
+    "name": "Golf Driving Range",
+    "campus": "IUB",
+    "address": "1200 N SR 45/46 BYP",
+    "regCode": "GF",
+    "latitude": 39.17796554,
+    "longitude": -86.50457197,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL877",
+    "buildingCode": "BL562",
+    "name": "Golf Range Pro Shop",
+    "campus": "IUB",
+    "address": null,
+    "regCode": "PS",
+    "latitude": 39.183914,
+    "longitude": -86.510145,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL406",
+    "buildingCode": "BL607P",
+    "name": "Golf Team Center, Cecil W. Weathers",
+    "campus": "IUB",
+    "address": "2202 N Headley Rd",
+    "regCode": "GP",
+    "latitude": 39.18642493,
+    "longitude": -86.51259265,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL462",
+    "buildingCode": "BL109",
+    "name": "Goodbody Hall",
+    "campus": "IUB",
+    "address": "1011 E 3rd St",
+    "regCode": "GB",
+    "latitude": 39.16539404,
+    "longitude": -86.52035086,
+    "labs": null,
+    "diningLocations": [
+      {
+        "diningId": 55,
+        "name": "Coffee Bean & Tea Leaf",
+        "description": "Born and brewed in California since 1963. Premium coffees and teas carefully nurtured from seed to cup.",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 56,
+        "name": "The Traveler",
+        "description": "A journey to savor and share. Experience authentic cuisine from around the world without leaving Bloomington.",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 57,
+        "name": "Nick's English Hut",
+        "description": "Enjoy food from the legendary Bloomington restaurant.",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 58,
+        "name": "The Chocolate Moose Ice Cream",
+        "description": "Enjoy ice cream and milkshakes from the local favorite The Chocolate Moose.",
+        "hours": null,
+        "status": null
+      }
+    ]
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL434",
+    "buildingCode": "BL450",
+    "name": "Graduate and Executive Education Center, William J. Godfrey",
+    "campus": "IUB",
+    "address": "1275 E 10th St",
+    "regCode": "CG",
+    "latitude": 39.17244852,
+    "longitude": -86.51935647,
+    "labs": null,
+    "diningLocations": [
+      {
+        "diningId": 23,
+        "name": "Campus Cafe at William J. Godfrey Graduate and Executive Center",
+        "description": "Quick, convenient campus cafe offering Erbert and Gerbert's EasyGo subs, Hubbard & Cravens coffee and espresso, a rotating hot bar, and salads",
+        "hours": null,
+        "status": null
+      }
+    ]
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL321",
+    "buildingCode": "BL549",
+    "name": "Greenhouse, Botany",
+    "campus": "IUB",
+    "address": "2387 E 10th St",
+    "regCode": "BG",
+    "latitude": 39.1753624,
+    "longitude": -86.50537461,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL236",
+    "buildingCode": "BL454",
+    "name": "Gresham Dining Hall (Foster Quadrangle)",
+    "campus": "IUB",
+    "address": "1000 N Fee Ln",
+    "regCode": "GR",
+    "latitude": 39.17432021,
+    "longitude": -86.51828181,
+    "labs": [{ "buildingCode": "GR", "campus": "IUB", "roomNumber": "102A", "macTotal": 0, "windowsTotal": 45, "linuxTotal": 0 }],
+    "diningLocations": [
+      {
+        "diningId": 39,
+        "name": "The Den by Denny's",
+        "description": "Serving freshly made breakfast, burgers, burritos, milkshakes, and more",
+        "hours": null,
+        "status": null
+      },
+      { "diningId": 40, "name": "Eastern Harvest", "description": "Rotating Asian cuisine", "hours": null, "status": null },
+      {
+        "diningId": 41,
+        "name": "Antonini's",
+        "description": "Fresh Italian classics, including pizza and pasta",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 42,
+        "name": "Erbert and Gerbert's",
+        "description": "Sandwich shop dedicated to serving more flavorful sandwiches and soups",
+        "hours": null,
+        "status": null
+      },
+      { "diningId": 43, "name": "Bueno", "description": "Freshly-prepared Mexican food", "hours": null, "status": null },
+      {
+        "diningId": 44,
+        "name": "Salad Bar",
+        "description": "Build-your-own fruit and yogurt bar for breakfast, and salad and potato bar for lunch and dinner",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 73,
+        "name": "Gresham Traditional Summer Meals",
+        "description": "Serving traditional summer meal, breakfast and lunch",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 74,
+        "name": "Gresham Traditional Summer Meals - Dinner",
+        "description": "Serving traditional summer meal for dinner",
+        "hours": null,
+        "status": null
+      }
+    ]
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL312",
+    "buildingCode": "BL278",
+    "name": "Griggs Lounge (Ashton Center)",
+    "campus": "IUB",
+    "address": "1776 E 10th St",
+    "regCode": "GG",
+    "latitude": 39.17103522,
+    "longitude": -86.51135397,
+    "labs": [{ "buildingCode": "GG", "campus": "IUB", "roomNumber": "101", "macTotal": 0, "windowsTotal": 11, "linuxTotal": 0 }],
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL419",
+    "buildingCode": "BL197",
+    "name": "Hamilton Lugar School of Global & International Studies",
+    "campus": "IUB",
+    "address": "355 N Jordan Ave                        ",
+    "regCode": "GA",
+    "latitude": 39.17000106,
+    "longitude": -86.51748035,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL262",
+    "buildingCode": "BL453",
+    "name": "Harper Hall (Foster Quadrangle)",
+    "campus": "IUB",
+    "address": "1000 N Fee Ln",
+    "regCode": "HQ",
+    "latitude": 39.17509739,
+    "longitude": -86.5180439,
+    "labs": [{ "buildingCode": "HQ", "campus": "IUB", "roomNumber": "199", "macTotal": 0, "windowsTotal": 2, "linuxTotal": 0 }],
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL148",
+    "buildingCode": "BL050C",
+    "name": "Harris House (HPER)",
+    "campus": "IUB",
+    "address": "801 E 7th St",
+    "regCode": "HR",
+    "latitude": 39.1686884,
+    "longitude": -86.52443938,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL224",
+    "buildingCode": "BL598",
+    "name": "Hayes Track Pressbox",
+    "campus": "IUB",
+    "address": "1600 N Fee Ln",
+    "regCode": "HY",
+    "latitude": 39.18153114,
+    "longitude": -86.51582667,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL283",
+    "buildingCode": "BL467",
+    "name": "Health Center",
+    "campus": "IUB",
+    "address": "600 N Jordan Ave",
+    "regCode": "HC",
+    "latitude": 39.17210542,
+    "longitude": -86.51512927,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL294",
+    "buildingCode": "BL493",
+    "name": "Hepburn Apartments",
+    "campus": "IUB",
+    "address": "1101 N Union St",
+    "regCode": "BN",
+    "latitude": 39.1754223,
+    "longitude": -86.51088321,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL215",
+    "buildingCode": "BL272",
+    "name": "Hershey Hall (Ashton Center)",
+    "campus": "IUB",
+    "address": "1788 E 10th St",
+    "regCode": "HE",
+    "latitude": 39.1700359,
+    "longitude": -86.51214394,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL394",
+    "buildingCode": "BL276A",
+    "name": "Hickory Hall (Union Street Center)",
+    "campus": "IUB",
+    "address": "1820 E 10th St",
+    "regCode": "AA",
+    "latitude": 39.17129621,
+    "longitude": -86.51038536,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL80",
+    "buildingCode": "BL401",
+    "name": "Hillcrest Apartments",
+    "campus": "IUB",
+    "address": "611 N Fess Ave/674 E Cottage Grove Ave",
+    "regCode": "HK",
+    "latitude": 39.17216754,
+    "longitude": -86.5261396,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL187",
+    "buildingCode": "BL551",
+    "name": "Hilltop Garden and Nature Center",
+    "campus": "IUB",
+    "address": "2367 E 10th St",
+    "regCode": "HI",
+    "latitude": 39.17445482,
+    "longitude": -86.50542563,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL469",
+    "buildingCode": "BL451",
+    "name": "Hodge Hall - Business, Kelley School of",
+    "campus": "IUB",
+    "address": "1309 E 10th St",
+    "regCode": "HH",
+    "latitude": 39.17240203,
+    "longitude": -86.51841105,
+    "labs": [
+      { "buildingCode": "HH", "campus": "IUB", "roomNumber": "1047", "macTotal": 0, "windowsTotal": 50, "linuxTotal": 0 },
+      { "buildingCode": "HH", "campus": "IUB", "roomNumber": "1049", "macTotal": 0, "windowsTotal": 43, "linuxTotal": 0 },
+      { "buildingCode": "HH", "campus": "IUB", "roomNumber": "4055", "macTotal": 0, "windowsTotal": 31, "linuxTotal": 0 },
+      { "buildingCode": "HH", "campus": "IUB", "roomNumber": "4057", "macTotal": 0, "windowsTotal": 37, "linuxTotal": 0 }
+    ],
+    "diningLocations": [
+      {
+        "diningId": 24,
+        "name": "Campus Cafe at Hodge Hall",
+        "description": "Quick, convenient cafe with Hubbard & Cravens coffee and espresso, Mighty Naan flatbread pizza, paninis, and wraps.",
+        "hours": null,
+        "status": null
+      }
+    ]
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL324",
+    "buildingCode": "BL050",
+    "name": "Honors College, Edward L. Hutton",
+    "campus": "IUB",
+    "address": "811 E 7th St",
+    "regCode": "HU",
+    "latitude": 39.16877003,
+    "longitude": -86.52405612,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL165",
+    "buildingCode": "BL523",
+    "name": "Hoosier Courts Daycare Nursery",
+    "campus": "IUB",
+    "address": "1150 N Union Ct",
+    "regCode": "HX",
+    "latitude": 39.17456309,
+    "longitude": -86.50888093,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL341",
+    "buildingCode": "BL173",
+    "name": "IU Cinema",
+    "campus": "IUB",
+    "address": "1213 E 7th St",
+    "regCode": "CN",
+    "latitude": 39.16861278,
+    "longitude": -86.51737556,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL425",
+    "buildingCode": "BL607S",
+    "name": "IU Golf Teaching and Training Center",
+    "campus": "IUB",
+    "address": "2120 N HEADLEY RD",
+    "regCode": "GT",
+    "latitude": 39.18599606,
+    "longitude": -86.51350956,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL390",
+    "buildingCode": "BL990Y",
+    "name": "IU Police (IUPD)",
+    "campus": "IUB",
+    "address": "1469 E 17th St",
+    "regCode": "PD",
+    "latitude": 39.17927174,
+    "longitude": -86.51334095,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL417",
+    "buildingCode": "BL049A",
+    "name": "India Studies Program",
+    "campus": "IUB",
+    "address": "704 E 8th St",
+    "regCode": "WE",
+    "latitude": 39.16930196,
+    "longitude": -86.52562183,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL257",
+    "buildingCode": "BL580",
+    "name": "Indiana Institute on Disability & Community",
+    "campus": "IUB",
+    "address": "2853 E 10th St",
+    "regCode": "MZ",
+    "latitude": 39.17472263,
+    "longitude": -86.49918925,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL74",
+    "buildingCode": "BL580",
+    "name": "Indiana Institute on Disability & Community",
+    "campus": "IUB",
+    "address": "2853 E 10th St",
+    "regCode": "MZ",
+    "latitude": 39.17441609,
+    "longitude": -86.49926169,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL402",
+    "buildingCode": "BL053",
+    "name": "Indiana Memorial Union (Union Building)",
+    "campus": "IUB",
+    "address": "900 E 7th St",
+    "regCode": "UB",
+    "latitude": 39.16765479,
+    "longitude": -86.5235362,
+    "labs": [
+      { "buildingCode": "UB", "campus": "IUB", "roomNumber": "089", "macTotal": 4, "windowsTotal": 7, "linuxTotal": 0 },
+      { "buildingCode": "UB", "campus": "IUB", "roomNumber": "089A", "macTotal": 6, "windowsTotal": 2, "linuxTotal": 0 },
+      { "buildingCode": "UB", "campus": "IUB", "roomNumber": "098", "macTotal": 0, "windowsTotal": 32, "linuxTotal": 0 },
+      { "buildingCode": "UB", "campus": "IUB", "roomNumber": "099", "macTotal": 0, "windowsTotal": 7, "linuxTotal": 0 }
+    ],
+    "diningLocations": [
+      {
+        "diningId": 59,
+        "name": "The Chocolate Moose Ice Cream",
+        "description": "Enjoy ice cream and milkshakes from the local favorite The Chocolate Moose.",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 60,
+        "name": "Dunn Meadow Cafe",
+        "description": "Choose from a selection of flatbread pizzas, paninis, sandwiches, and wraps at the Dunn Meadow Cafe. Enjoy the outdoor grill during the summer.",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 61,
+        "name": "The Globe",
+        "description": "Through our new partnership with local restaurants, you can enjoy your favorites from around town without leaving campus!",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 62,
+        "name": "Sugar & Spice",
+        "description": "An IU tradition and the best bakery around! We use our \"secret\" recipes and fresh ingredients to bring you delectable treats.  Ask about our gift baskets and wedding cakes. Visit the Sugar & Spice page at http://go.iu.edu/sugarandspice to order.",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 63,
+        "name": "B-Town Pizza",
+        "description": "Enjoy our pizza by the slice. Made on site with fresh, local ingredients.",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 64,
+        "name": "Sakura Sushi & Hot Bowl",
+        "description": "Try a variety of sushi rolls, noodle roles, or rice bowls.",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 65,
+        "name": "Starbucks",
+        "description": "Enjoy your favorite Starbucks creation here in our extra-large seating area, or enjoy it one your way to your next event.",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 66,
+        "name": "Crimson Grill",
+        "description": "Burgers and sandwiches made with the best local ingredients from Capriole, Fisher Farms, and Millers Amish Poultry. Select one of our signature sandwiches or build your own.",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 67,
+        "name": "Hoosier Homestyle",
+        "description": "This is traditional cooking like your grandmother did back in the day. Selections change daily.",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 68,
+        "name": "Green Leaf",
+        "description": "Select one of our signature salads, or have us build a salad just for you. We make all of our own dressings!",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 69,
+        "name": "Union Market",
+        "description": "Designed with the traveler in mind, this market offers gift and necessity items, as well as prepackaged foods.",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 70,
+        "name": "Circle Cafe",
+        "description": "Stop by to pick up breakfast or lunch on your way to a class, meeting, or work.",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 71,
+        "name": "Tudor Room",
+        "description": "Savor a lunch buffet with friends and colleagues in a beautiful and relaxing atmosphere where china, table linens, and waiters are still in vogue. Reservations accepted. To make a reservation, visit https://go.iu.edu/reservations.",
+        "hours": null,
+        "status": null
+      }
+    ]
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL346",
+    "buildingCode": "BL990P",
+    "name": "Informatics East",
+    "campus": "IUB",
+    "address": "919 E 10th St",
+    "regCode": "I2",
+    "latitude": 39.17202416,
+    "longitude": -86.52274137,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL345",
+    "buildingCode": "BL414",
+    "name": "Informatics West",
+    "campus": "IUB",
+    "address": "901 E 10th St",
+    "regCode": "I ",
+    "latitude": 39.17198002,
+    "longitude": -86.52316285,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL231",
+    "buildingCode": "BL563",
+    "name": "Innovation Center, Indiana University",
+    "campus": "IUB",
+    "address": "2719 E 10th St",
+    "regCode": "IR",
+    "latitude": 39.17205972,
+    "longitude": -86.50015918,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL208",
+    "buildingCode": "BL143C",
+    "name": "Institute for Social Research / Center for Survey Research",
+    "campus": "IUB",
+    "address": "1022 E 3rd St",
+    "regCode": "S7",
+    "latitude": 39.16376398,
+    "longitude": -86.51982572,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL416",
+    "buildingCode": "BL049E",
+    "name": "Integrative Study",
+    "campus": "IUB",
+    "address": "708 E 8th St",
+    "regCode": "IN",
+    "latitude": 39.16931627,
+    "longitude": -86.52542268,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL287",
+    "buildingCode": "BL572",
+    "name": "Intercollegiate Athletics Gymnasium",
+    "campus": "IUB",
+    "address": "2721 E 10th St",
+    "regCode": "GI",
+    "latitude": 39.17269402,
+    "longitude": -86.50015224,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL91",
+    "buildingCode": "BL215A",
+    "name": "International Center, Leo R. Dowling",
+    "campus": "IUB",
+    "address": "111 S Jordan Ave",
+    "regCode": "IC",
+    "latitude": 39.16679212,
+    "longitude": -86.51582801,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL274",
+    "buildingCode": "BL091",
+    "name": "Intramural Center ",
+    "campus": "IUB",
+    "address": "1025 E 7th St",
+    "regCode": "WM",
+    "latitude": 39.16921962,
+    "longitude": -86.5208279,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL211",
+    "buildingCode": "BL462",
+    "name": "Jenkinson Hall (Foster Quadrangle)",
+    "campus": "IUB",
+    "address": "1000 N Fee Ln",
+    "regCode": "IS",
+    "latitude": 39.17511304,
+    "longitude": -86.51711071,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL308",
+    "buildingCode": "BL275",
+    "name": "Johnston Hall (Ashton Center)",
+    "campus": "IUB",
+    "address": "1770 E 10th St",
+    "regCode": "JO",
+    "latitude": 39.17096751,
+    "longitude": -86.51215659,
+    "labs": [
+      { "buildingCode": "JO", "campus": "IUB", "roomNumber": "098", "macTotal": 0, "windowsTotal": 2, "linuxTotal": 0 },
+      { "buildingCode": "JO", "campus": "IUB", "roomNumber": "198", "macTotal": 0, "windowsTotal": 2, "linuxTotal": 0 }
+    ],
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL205",
+    "buildingCode": "BL107",
+    "name": "Jordan Hall",
+    "campus": "IUB",
+    "address": "1001 E 3rd St",
+    "regCode": "JH",
+    "latitude": 39.16484014,
+    "longitude": -86.52098318,
+    "labs": null,
+    "diningLocations": [
+      {
+        "diningId": 18,
+        "name": "Campus Cafe at Jordan Hall",
+        "description": "Quick, convenient campus cafe offering Erbert and Gerbert's EasyGo salads, subs, and Starbucks coffee",
+        "hours": null,
+        "status": null
+      }
+    ]
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL381",
+    "buildingCode": "BL058",
+    "name": "Kirkwood Hall",
+    "campus": "IUB",
+    "address": "130 S Woodlawn Ave",
+    "regCode": "KH",
+    "latitude": 39.16597142,
+    "longitude": -86.52358324,
+    "labs": [{ "buildingCode": "KH", "campus": "IUB", "roomNumber": "016", "macTotal": 21, "windowsTotal": 1, "linuxTotal": 0 }],
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL83",
+    "buildingCode": "BL021",
+    "name": "Kirkwood Observatory",
+    "campus": "IUB",
+    "address": "119 S Indiana Ave",
+    "regCode": "OB",
+    "latitude": 39.16574394,
+    "longitude": -86.52607837,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL222",
+    "buildingCode": "BL013Y",
+    "name": "La Casa/Latino Cultural Center",
+    "campus": "IUB",
+    "address": "715 E 7th St",
+    "regCode": "LZ",
+    "latitude": 39.16872651,
+    "longitude": -86.52503765,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL391",
+    "buildingCode": "BL001C",
+    "name": "Lewis Building",
+    "campus": "IUB",
+    "address": "116 S Indiana Ave",
+    "regCode": "LS",
+    "latitude": 39.16575591,
+    "longitude": -86.52713907,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL442",
+    "buildingCode": "BL209",
+    "name": "Library, Herman B Wells",
+    "campus": "IUB",
+    "address": "1320 E 10th St",
+    "regCode": "LI",
+    "latitude": 39.1709965,
+    "longitude": -86.51676336,
+    "labs": [
+      { "buildingCode": "LI", "campus": "IUB", "roomNumber": "201", "macTotal": 0, "windowsTotal": 69, "linuxTotal": 0 },
+      { "buildingCode": "LI", "campus": "IUB", "roomNumber": "241", "macTotal": 2, "windowsTotal": 5, "linuxTotal": 0 },
+      { "buildingCode": "LI", "campus": "IUB", "roomNumber": "401", "macTotal": 12, "windowsTotal": 40, "linuxTotal": 0 },
+      { "buildingCode": "LI", "campus": "IUB", "roomNumber": "402", "macTotal": 0, "windowsTotal": 50, "linuxTotal": 0 },
+      { "buildingCode": "LI", "campus": "IUB", "roomNumber": "403D", "macTotal": 0, "windowsTotal": 6, "linuxTotal": 0 },
+      { "buildingCode": "LI", "campus": "IUB", "roomNumber": "502", "macTotal": 0, "windowsTotal": 45, "linuxTotal": 0 },
+      { "buildingCode": "LI", "campus": "IUB", "roomNumber": "503", "macTotal": 0, "windowsTotal": 27, "linuxTotal": 0 }
+    ],
+    "diningLocations": [
+      {
+        "diningId": 16,
+        "name": "Campus Cafe at Herman B Wells Library Commons",
+        "description": "Quick, convenient cafe with Bonfire pizza and Hubbard & Cravens coffee and espresso",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 50,
+        "name": "Coffee Bean & Tea Leaf",
+        "description": "Born and brewed in California since 1963. Premium coffees and teas carefully nurtured from seed to cup.",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 51,
+        "name": "The Traveler",
+        "description": "A journey to savor and share. Experience authentic cuisine from around the world without leaving Bloomington.",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 52,
+        "name": "Scholars Inn Bakehouse",
+        "description": "It all starts with the bread. Local Bloomington icon serving burgers, delicious breakfast, and sandwiches with all natural, made from scratch bread and bagels.",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 54,
+        "name": "Crema Dolce",
+        "description": "Savor your choice of sweet treats from local, family-owned businesses, including ice cream from Bloomington's own The Chocolate Moose and gelato from Gelato Da Vinci in Carmel, IN.",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 53,
+        "name": "Panino Mio",
+        "description": "Fresh. Grilled. Delizioso. Paninis fresh off the press made just for you.",
+        "hours": null,
+        "status": null
+      }
+    ]
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL405",
+    "buildingCode": "BL155",
+    "name": "Lilly Library",
+    "campus": "IUB",
+    "address": "1200 E 7th St",
+    "regCode": "LL",
+    "latitude": 39.16790801,
+    "longitude": -86.51896924,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL339",
+    "buildingCode": "BL276D",
+    "name": "Linden Hall (Union Street Center)",
+    "campus": "IUB",
+    "address": "435 N Union St",
+    "regCode": "ND",
+    "latitude": 39.16982925,
+    "longitude": -86.5100344,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL22",
+    "buildingCode": "BL059",
+    "name": "Lindley Hall",
+    "campus": "IUB",
+    "address": "150 S Woodlawn Ave",
+    "regCode": "LH",
+    "latitude": 39.16534361,
+    "longitude": -86.52359894,
+    "labs": [
+      { "buildingCode": "LH", "campus": "IUB", "roomNumber": "030", "macTotal": 29, "windowsTotal": 0, "linuxTotal": 0 },
+      { "buildingCode": "LH", "campus": "IUB", "roomNumber": "115", "macTotal": 0, "windowsTotal": 6, "linuxTotal": 0 }
+    ],
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL240",
+    "buildingCode": "BL001",
+    "name": "Lowell E Baier Hall/IU Maurer School of Law",
+    "campus": "IUB",
+    "address": "211 S Indiana Ave",
+    "regCode": "LW",
+    "latitude": 39.16507376,
+    "longitude": -86.52642427,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL467",
+    "buildingCode": "BL404",
+    "name": "Luddy Hall (Informatics)",
+    "campus": "IUB",
+    "address": "700 N Woodlawn Ave",
+    "regCode": "IF",
+    "latitude": 39.17294243,
+    "longitude": -86.52302945,
+    "labs": null,
+    "diningLocations": [
+      {
+        "diningId": 19,
+        "name": "Campus Cafe at Luddy Hall",
+        "description": "Quick, convenient cafe with Hubbard & Cravens coffee and espresso, international cuisine, Mighty Naan flatbread pizza, and sandwiches",
+        "hours": null,
+        "status": null
+      }
+    ]
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL297",
+    "buildingCode": "BL461",
+    "name": "Magee Hall (Foster Quadrangle)",
+    "campus": "IUB",
+    "address": "1000 N Fee Ln",
+    "regCode": "RU",
+    "latitude": 39.17586678,
+    "longitude": -86.51721066,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL466",
+    "buildingCode": "BL596",
+    "name": "Marching Hundred Hall (Ray E. Cramer)",
+    "campus": "IUB",
+    "address": "910 E 17th St",
+    "regCode": "MG",
+    "latitude": 39.17858984,
+    "longitude": -86.52303202,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL281",
+    "buildingCode": "BL456",
+    "name": "Martin Hall (Foster Quadrangle)",
+    "campus": "IUB",
+    "address": "1000 N Fee Ln",
+    "regCode": "FQ",
+    "latitude": 39.17586801,
+    "longitude": -86.51783955,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL385",
+    "buildingCode": "BL304",
+    "name": "Mason Hall",
+    "campus": "IUB",
+    "address": "1930 E 7th St",
+    "regCode": "MQ",
+    "latitude": 39.16784704,
+    "longitude": -86.50993051,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL322",
+    "buildingCode": "BL011",
+    "name": "Mathers Museum",
+    "campus": "IUB",
+    "address": "601 E 8th St",
+    "regCode": "M2",
+    "latitude": 39.16984483,
+    "longitude": -86.52626567,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL286",
+    "buildingCode": "BL033",
+    "name": "Maxwell Hall",
+    "campus": "IUB",
+    "address": "750 E Kirkwood Ave",
+    "regCode": "MX",
+    "latitude": 39.16705035,
+    "longitude": -86.52471815,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL158",
+    "buildingCode": "BL044",
+    "name": "McCalla School",
+    "campus": "IUB",
+    "address": "525 E 9th St",
+    "regCode": "FX",
+    "latitude": 39.1708411,
+    "longitude": -86.52749963,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL445",
+    "buildingCode": "BL439",
+    "name": "McNutt Central Quadrangle",
+    "campus": "IUB",
+    "address": "1101 N Fee Ln",
+    "regCode": "MN",
+    "latitude": 39.17642007,
+    "longitude": -86.51974847,
+    "labs": [
+      { "buildingCode": "MN", "campus": "IUB", "roomNumber": "001B", "macTotal": 0, "windowsTotal": 52, "linuxTotal": 0 },
+      { "buildingCode": "MN", "campus": "IUB", "roomNumber": "006", "macTotal": 0, "windowsTotal": 12, "linuxTotal": 0 },
+      { "buildingCode": "MN", "campus": "IUB", "roomNumber": "199", "macTotal": 0, "windowsTotal": 3, "linuxTotal": 0 }
+    ],
+    "diningLocations": [
+      {
+        "diningId": 45,
+        "name": "Hoosier Cafe and Store at McNutt",
+        "description": "Cafe and convenience store with made-to-order subs, rotating presentation menu, salad bar, and The Round full espresso bar with baked goods",
+        "hours": null,
+        "status": null
+      }
+    ]
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL180",
+    "buildingCode": "BL595",
+    "name": "Mellencamp Pavilion",
+    "campus": "IUB",
+    "address": "1800 N Dunn St",
+    "regCode": "MV",
+    "latitude": 39.18322793,
+    "longitude": -86.52443739,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL264",
+    "buildingCode": "BL141",
+    "name": "Memorial Hall",
+    "campus": "IUB",
+    "address": "1021 E 3rd St",
+    "regCode": "MM",
+    "latitude": 39.1647944,
+    "longitude": -86.51969452,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL89",
+    "buildingCode": "BL601",
+    "name": "Memorial Stadium",
+    "campus": "IUB",
+    "address": "701 E 17th St",
+    "regCode": "MS",
+    "latitude": 39.18088787,
+    "longitude": -86.52496309,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL159",
+    "buildingCode": "BL601",
+    "name": "Memorial Stadium",
+    "campus": "IUB",
+    "address": "701 E 17th St",
+    "regCode": "MS",
+    "latitude": 39.1808983,
+    "longitude": -86.52643864,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL327",
+    "buildingCode": "BL601",
+    "name": "Memorial Stadium - North End Zone Student-Athlete Development Center",
+    "campus": "IUB",
+    "address": "701 E 17th St",
+    "regCode": "MS",
+    "latitude": 39.18174954,
+    "longitude": -86.52562405,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL314",
+    "buildingCode": "BL147",
+    "name": "Merrill Hall (Jacobs School of Music)",
+    "campus": "IUB",
+    "address": "1201 E 3rd St",
+    "regCode": "MU",
+    "latitude": 39.16479228,
+    "longitude": -86.51829918,
+    "labs": null,
+    "diningLocations": [
+      {
+        "diningId": 17,
+        "name": "Campus Cafe at Jacobs School of Music",
+        "description": "Quick, convenient campus cafe offering salads, sandwiches, and Hubbard &amp Cravens coffee",
+        "hours": null,
+        "status": null
+      }
+    ]
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL214",
+    "buildingCode": "BL277",
+    "name": "Moffat Hall (Ashton Center)",
+    "campus": "IUB",
+    "address": "1774 E 10th St",
+    "regCode": "MF",
+    "latitude": 39.1712432,
+    "longitude": -86.51140696,
+    "labs": [
+      { "buildingCode": "MF", "campus": "IUB", "roomNumber": "191", "macTotal": 0, "windowsTotal": 2, "linuxTotal": 0 },
+      { "buildingCode": "MF", "campus": "IUB", "roomNumber": "193", "macTotal": 0, "windowsTotal": 3, "linuxTotal": 0 }
+    ],
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL392",
+    "buildingCode": "BL664",
+    "name": "Monroe County Government Center",
+    "campus": "IUB",
+    "address": "501 N Morton St",
+    "regCode": "SP",
+    "latitude": 39.17016488,
+    "longitude": -86.53689735,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL302",
+    "buildingCode": "BL139",
+    "name": "Morrison Hall",
+    "campus": "IUB",
+    "address": "1165 E 3rd St",
+    "regCode": "MO",
+    "latitude": 39.16549634,
+    "longitude": -86.51971882,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL16",
+    "buildingCode": "BL618",
+    "name": "Motor Pool",
+    "campus": "IUB",
+    "address": "801 N Range Rd",
+    "regCode": "X2",
+    "latitude": 39.17367974,
+    "longitude": -86.49612784,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL129",
+    "buildingCode": "BL608",
+    "name": "Multidisciplinary Engineering and Sciences Hall",
+    "campus": "IUB",
+    "address": "2401/2425(MPRI) N Milo Sampson Ln",
+    "regCode": "CY",
+    "latitude": 39.18984496,
+    "longitude": -86.52295066,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL233",
+    "buildingCode": "BL423",
+    "name": "Multidisciplinary Science Bldg. II",
+    "campus": "IUB",
+    "address": "702 N Walnut Grove Ave",
+    "regCode": "S2",
+    "latitude": 39.17287078,
+    "longitude": -86.520668,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL61",
+    "buildingCode": "BL148",
+    "name": "Music Building Addition",
+    "campus": "IUB",
+    "address": "1201 E 3rd St",
+    "regCode": "MA",
+    "latitude": 39.16525789,
+    "longitude": -86.51829315,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL404",
+    "buildingCode": "BL150",
+    "name": "Music East Studio Building",
+    "campus": "IUB",
+    "address": "205 S. Jordan Ave",
+    "regCode": "JS",
+    "latitude": 39.16466921,
+    "longitude": -86.51543082,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL428",
+    "buildingCode": "BL181",
+    "name": "Music Library & Recital Hall, Bess Meshulam Simon",
+    "campus": "IUB",
+    "address": "200 S Jordan Ave",
+    "regCode": "SG",
+    "latitude": 39.16533498,
+    "longitude": -86.51744537,
+    "labs": [{ "buildingCode": "SG", "campus": "IUB", "roomNumber": "164", "macTotal": 0, "windowsTotal": 16, "linuxTotal": 0 }],
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL149",
+    "buildingCode": "BL143",
+    "name": "Music Practice Building",
+    "campus": "IUB",
+    "address": "1024 E 3rd St",
+    "regCode": "P ",
+    "latitude": 39.16375722,
+    "longitude": -86.51942553,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL443",
+    "buildingCode": "BL177",
+    "name": "Musical Arts Center (MAC)",
+    "campus": "IUB",
+    "address": "101 N Jordan Ave",
+    "regCode": "MC",
+    "latitude": 39.16656267,
+    "longitude": -86.51760387,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL163",
+    "buildingCode": "BL101",
+    "name": "Myers Hall",
+    "campus": "IUB",
+    "address": "915 E 3rd St",
+    "regCode": "MY",
+    "latitude": 39.1647273,
+    "longitude": -86.52231247,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL269",
+    "buildingCode": "BL513",
+    "name": "Nutt Apartments",
+    "campus": "IUB",
+    "address": "1105 N Union St",
+    "regCode": "NU",
+    "latitude": 39.17624239,
+    "longitude": -86.51069408,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL88",
+    "buildingCode": "BL065",
+    "name": "Optometry, School of",
+    "campus": "IUB",
+    "address": "800 E Atwater Ave",
+    "regCode": "OP",
+    "latitude": 39.16285608,
+    "longitude": -86.52333564,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL46",
+    "buildingCode": "BL055",
+    "name": "Owen Hall",
+    "campus": "IUB",
+    "address": "790 E Kirkwood Ave",
+    "regCode": "OW",
+    "latitude": 39.16697542,
+    "longitude": -86.52383809,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL383",
+    "buildingCode": "BL069",
+    "name": "Parking Garage - Atwater",
+    "campus": "IUB",
+    "address": "925 E Atwater Ave",
+    "regCode": "G5",
+    "latitude": 39.16338518,
+    "longitude": -86.52186823,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL382",
+    "buildingCode": "BL448",
+    "name": "Parking Garage - Fee Lane",
+    "campus": "IUB",
+    "address": "709 N Fee Ln",
+    "regCode": "G1",
+    "latitude": 39.17301175,
+    "longitude": -86.51977252,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL306",
+    "buildingCode": "BL063",
+    "name": "Parking Garage - Henderson",
+    "campus": "IUB",
+    "address": "310 S Fess Ave",
+    "regCode": "G6",
+    "latitude": 39.16353838,
+    "longitude": -86.52633062,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL411",
+    "buildingCode": "BL199",
+    "name": "Parking Garage - Jordan Avenue",
+    "campus": "IUB",
+    "address": "150 N Jordan Ave",
+    "regCode": "G3",
+    "latitude": 39.16741081,
+    "longitude": -86.51495738,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL319",
+    "buildingCode": "BL009",
+    "name": "Parking Garage - Poplars",
+    "campus": "IUB",
+    "address": "6th St & Dunn St",
+    "regCode": "G2",
+    "latitude": 39.16780853,
+    "longitude": -86.52885527,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL338",
+    "buildingCode": "BL276G",
+    "name": "Pine Hall (Union Street Center)",
+    "campus": "IUB",
+    "address": "405 N Union St",
+    "regCode": "NG",
+    "latitude": 39.16887063,
+    "longitude": -86.50985093,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL249",
+    "buildingCode": "BL652H",
+    "name": "Polish Studies Center",
+    "campus": "IUB",
+    "address": "1217 E Atwater Ave",
+    "regCode": "PS",
+    "latitude": 39.16333105,
+    "longitude": -86.51844491,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL82",
+    "buildingCode": "BL605",
+    "name": "Pool, Outdoor",
+    "campus": "IUB",
+    "address": "1490 N Fee Ln",
+    "regCode": "OD",
+    "latitude": 39.17993306,
+    "longitude": -86.51867546,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL71",
+    "buildingCode": "BL008",
+    "name": "Poplars Research and Conference Center",
+    "campus": "IUB",
+    "address": "400 E 7th St",
+    "regCode": "PO",
+    "latitude": 39.16819791,
+    "longitude": -86.52903423,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL265",
+    "buildingCode": "BL419",
+    "name": "Psychology, Department of",
+    "campus": "IUB",
+    "address": "1101 E 10th St",
+    "regCode": "PY",
+    "latitude": 39.17206881,
+    "longitude": -86.52022729,
+    "labs": [
+      { "buildingCode": "PY", "campus": "IUB", "roomNumber": "199", "macTotal": 0, "windowsTotal": 8, "linuxTotal": 0 },
+      { "buildingCode": "PY", "campus": "IUB", "roomNumber": "199P", "macTotal": 0, "windowsTotal": 6, "linuxTotal": 0 }
+    ],
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL457",
+    "buildingCode": "BL452",
+    "name": "Public and Environmental Affairs, School of (SPEA)",
+    "campus": "IUB",
+    "address": "1315 E 10th St",
+    "regCode": "PV",
+    "latitude": 39.17238725,
+    "longitude": -86.51766043,
+    "labs": [
+      { "buildingCode": "PV", "campus": "IUB", "roomNumber": "150", "macTotal": 0, "windowsTotal": 44, "linuxTotal": 0 },
+      { "buildingCode": "PV", "campus": "IUB", "roomNumber": "151", "macTotal": 0, "windowsTotal": 31, "linuxTotal": 0 },
+      { "buildingCode": "PV", "campus": "IUB", "roomNumber": "154", "macTotal": 0, "windowsTotal": 1, "linuxTotal": 0 },
+      { "buildingCode": "PV", "campus": "IUB", "roomNumber": "156", "macTotal": 0, "windowsTotal": 1, "linuxTotal": 0 },
+      { "buildingCode": "PV", "campus": "IUB", "roomNumber": "158", "macTotal": 0, "windowsTotal": 1, "linuxTotal": 0 },
+      { "buildingCode": "PV", "campus": "IUB", "roomNumber": "160", "macTotal": 0, "windowsTotal": 1, "linuxTotal": 0 },
+      { "buildingCode": "PV", "campus": "IUB", "roomNumber": "162", "macTotal": 0, "windowsTotal": 1, "linuxTotal": 0 },
+      { "buildingCode": "PV", "campus": "IUB", "roomNumber": "164", "macTotal": 0, "windowsTotal": 1, "linuxTotal": 0 },
+      { "buildingCode": "PV", "campus": "IUB", "roomNumber": "166", "macTotal": 0, "windowsTotal": 1, "linuxTotal": 0 },
+      { "buildingCode": "PV", "campus": "IUB", "roomNumber": "172", "macTotal": 0, "windowsTotal": 1, "linuxTotal": 0 },
+      { "buildingCode": "PV", "campus": "IUB", "roomNumber": "174", "macTotal": 0, "windowsTotal": 1, "linuxTotal": 0 },
+      { "buildingCode": "PV", "campus": "IUB", "roomNumber": "176", "macTotal": 0, "windowsTotal": 1, "linuxTotal": 0 },
+      { "buildingCode": "PV", "campus": "IUB", "roomNumber": "178", "macTotal": 0, "windowsTotal": 1, "linuxTotal": 0 },
+      { "buildingCode": "PV", "campus": "IUB", "roomNumber": "180", "macTotal": 0, "windowsTotal": 1, "linuxTotal": 0 },
+      { "buildingCode": "PV", "campus": "IUB", "roomNumber": "182", "macTotal": 0, "windowsTotal": 1, "linuxTotal": 0 },
+      { "buildingCode": "PV", "campus": "IUB", "roomNumber": "184", "macTotal": 0, "windowsTotal": 1, "linuxTotal": 0 },
+      { "buildingCode": "PV", "campus": "IUB", "roomNumber": "186", "macTotal": 0, "windowsTotal": 1, "linuxTotal": 0 },
+      { "buildingCode": "PV", "campus": "IUB", "roomNumber": "199B", "macTotal": 0, "windowsTotal": 6, "linuxTotal": 0 }
+    ],
+    "diningLocations": [
+      {
+        "diningId": 20,
+        "name": "Campus Cafe at School of Public and Environmental Affairs",
+        "description": "Quick, convenient cafe with made-to-order paninis and Hubbard & Cravens coffee and espresso",
+        "hours": null,
+        "status": null
+      }
+    ]
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL259",
+    "buildingCode": "BL158",
+    "name": "Radio-Television Center (WFIU and WTIU)",
+    "campus": "IUB",
+    "address": "1229 E 7th St",
+    "regCode": "TV",
+    "latitude": 39.16959155,
+    "longitude": -86.51872309,
+    "labs": [
+      { "buildingCode": "TV", "campus": "IUB", "roomNumber": "186", "macTotal": 0, "windowsTotal": 29, "linuxTotal": 0 },
+      { "buildingCode": "TV", "campus": "IUB", "roomNumber": "250", "macTotal": 19, "windowsTotal": 0, "linuxTotal": 0 }
+    ],
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL36",
+    "buildingCode": "BL067",
+    "name": "Rawles Hall",
+    "campus": "IUB",
+    "address": "831 E 3rd St",
+    "regCode": "RH",
+    "latitude": 39.16471061,
+    "longitude": -86.52339457,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL164",
+    "buildingCode": "BL227",
+    "name": "Read Hall",
+    "campus": "IUB",
+    "address": "125 S Jordan Ave",
+    "regCode": "RE",
+    "latitude": 39.16611546,
+    "longitude": -86.51488449,
+    "labs": [{ "buildingCode": "RE", "campus": "IUB", "roomNumber": "199", "macTotal": 0, "windowsTotal": 3, "linuxTotal": 0 }],
+    "diningLocations": [
+      {
+        "diningId": 25,
+        "name": "Crimson Cafe",
+        "description": "Classic cafe food including breakfast, Hubbard & Cravens coffee and espresso, and ice cream",
+        "hours": null,
+        "status": null
+      },
+      { "diningId": 26, "name": "Bueno", "description": "Freshly-prepared Mexican food", "hours": null, "status": null },
+      {
+        "diningId": 27,
+        "name": "Presentation Station",
+        "description": "Rotating menu of American classics and globally-inspired cuisine",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 28,
+        "name": "Erbert and Gerbert's",
+        "description": "Sandwich shop dedicated to serving more flavorful sandwiches and soups",
+        "hours": null,
+        "status": null
+      }
+    ]
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL332",
+    "buildingCode": "BL548",
+    "name": "Redbud Hill East Apartments",
+    "campus": "IUB",
+    "address": "2100 E Lingelbach Ln",
+    "regCode": "RD",
+    "latitude": 39.17749834,
+    "longitude": -86.50668601,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL261",
+    "buildingCode": "BL547",
+    "name": "Redbud Hill North Apartments",
+    "campus": "IUB",
+    "address": "2200 E Lingelbach Ln",
+    "regCode": "RD",
+    "latitude": 39.17839781,
+    "longitude": -86.50722697,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL330",
+    "buildingCode": "BL617P",
+    "name": "Research & Teaching Preserve Field Station",
+    "campus": "IUB",
+    "address": "1498 N State Road  45 46 Bypass",
+    "regCode": "RP",
+    "latitude": 39.19074497,
+    "longitude": -86.50206641,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL288",
+    "buildingCode": "BL463",
+    "name": "Residential Programs and Services, Division of",
+    "campus": "IUB",
+    "address": "801 N Jordan Ave",
+    "regCode": "HL",
+    "latitude": 39.17382557,
+    "longitude": -86.51598849,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL119",
+    "buildingCode": "BL031",
+    "name": "Rose Well House",
+    "campus": "IUB",
+    "address": "Wellhouse",
+    "regCode": "WO",
+    "latitude": 39.16643115,
+    "longitude": -86.52437699,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL344",
+    "buildingCode": "BL614",
+    "name": "Ruth Lilly Auxiliary Library Facility (ALF)",
+    "campus": "IUB",
+    "address": "851 N Range Rd",
+    "regCode": "X4",
+    "latitude": 39.17486887,
+    "longitude": -86.49749818,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL296",
+    "buildingCode": "BL475",
+    "name": "SRSC (Student Recreational Sports Center)",
+    "campus": "IUB",
+    "address": "1601 E Law Ln",
+    "regCode": "RB",
+    "latitude": 39.17352548,
+    "longitude": -86.51241487,
+    "labs": [
+      { "buildingCode": "RB", "campus": "IUB", "roomNumber": "099", "macTotal": 0, "windowsTotal": 2, "linuxTotal": 0 },
+      { "buildingCode": "RB", "campus": "IUB", "roomNumber": "100", "macTotal": 0, "windowsTotal": 2, "linuxTotal": 0 }
+    ],
+    "diningLocations": [
+      {
+        "diningId": 21,
+        "name": "Campus Cafe at Student Recreational Sports Center",
+        "description": "Quick, convenient cafe with smoothies and snacks",
+        "hours": null,
+        "status": null
+      }
+    ]
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL173",
+    "buildingCode": "BSD230",
+    "name": "Sample Gates",
+    "campus": "IUB",
+    "address": " ",
+    "regCode": "GX",
+    "latitude": 39.16645227,
+    "longitude": -86.52660542,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL470",
+    "buildingCode": "BSD230",
+    "name": "Sample Gates",
+    "campus": "IUB",
+    "address": " ",
+    "regCode": "GX",
+    "latitude": 39.16645227,
+    "longitude": -86.52660542,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL245",
+    "buildingCode": "BL119",
+    "name": "School of Public Health",
+    "campus": "IUB",
+    "address": "1025 E 7th St",
+    "regCode": "PH",
+    "latitude": 39.16979248,
+    "longitude": -86.52110014,
+    "labs": [
+      { "buildingCode": "PH", "campus": "IUB", "roomNumber": "154", "macTotal": 0, "windowsTotal": 23, "linuxTotal": 0 },
+      { "buildingCode": "PH", "campus": "IUB", "roomNumber": "199", "macTotal": 0, "windowsTotal": 4, "linuxTotal": 0 },
+      { "buildingCode": "PH", "campus": "IUB", "roomNumber": "199B", "macTotal": 0, "windowsTotal": 3, "linuxTotal": 0 }
+    ],
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL133",
+    "buildingCode": "BL630",
+    "name": "Service Building",
+    "campus": "IUB",
+    "address": "1800 N Range Rd",
+    "regCode": "SX",
+    "latitude": 39.17671147,
+    "longitude": -86.49397708,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL1",
+    "buildingCode": "BL455",
+    "name": "Shea Hall (Foster Quadrangle)",
+    "campus": "IUB",
+    "address": "1000 N Fee Ln",
+    "regCode": "SH",
+    "latitude": 39.17587115,
+    "longitude": -86.51846641,
+    "labs": [{ "buildingCode": "SH", "campus": "IUB", "roomNumber": "015", "macTotal": 1, "windowsTotal": 3, "linuxTotal": 0 }],
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL172",
+    "buildingCode": "BL899",
+    "name": "Showalter Fountain",
+    "campus": "IUB",
+    "address": " ",
+    "regCode": "SF",
+    "latitude": 39.16845448,
+    "longitude": -86.51897219,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL186",
+    "buildingCode": "BL153",
+    "name": "Sidney and Lois Eskenazi Museum of Art",
+    "campus": "IUB",
+    "address": "1133 E 7th St",
+    "regCode": "FV",
+    "latitude": 39.16914384,
+    "longitude": -86.51973852,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL4",
+    "buildingCode": "BL070",
+    "name": "Simon Hall (Multi-Disciplinary Sciences)",
+    "campus": "IUB",
+    "address": "212 S Hawthorne Dr",
+    "regCode": "SI",
+    "latitude": 39.16516643,
+    "longitude": -86.52223534,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL455",
+    "buildingCode": "BL603",
+    "name": "Simon Skjodt Assembly Hall ",
+    "campus": "IUB",
+    "address": "1001 E 17th St",
+    "regCode": "AS",
+    "latitude": 39.1808449,
+    "longitude": -86.52221252,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL3",
+    "buildingCode": "BL047",
+    "name": "Smith Hall (Collins Living-Learning Center)",
+    "campus": "IUB",
+    "address": "541 N Woodlawn Ave",
+    "regCode": "S8",
+    "latitude": 39.17073855,
+    "longitude": -86.52399127,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL206",
+    "buildingCode": "BL573",
+    "name": "Smith Research Center",
+    "campus": "IUB",
+    "address": "2805 E 10th St",
+    "regCode": "ER",
+    "latitude": 39.173665,
+    "longitude": -86.49967445,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL52",
+    "buildingCode": "BL652P",
+    "name": "Social Work, School of",
+    "campus": "IUB",
+    "address": "1127 E Atwater Ave",
+    "regCode": "WU",
+    "latitude": 39.16326112,
+    "longitude": -86.51932545,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL429",
+    "buildingCode": "BL181",
+    "name": "Speech & Hearing Sciences",
+    "campus": "IUB",
+    "address": "200 S Jordan Ave",
+    "regCode": "SG",
+    "latitude": 39.16534862,
+    "longitude": -86.51743758,
+    "labs": [{ "buildingCode": "SG", "campus": "IUB", "roomNumber": "164", "macTotal": 0, "windowsTotal": 16, "linuxTotal": 0 }],
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL388",
+    "buildingCode": "BL298",
+    "name": "Spruce Hall",
+    "campus": "IUB",
+    "address": "1801 E Jones Ave",
+    "regCode": "RA",
+    "latitude": 39.1657565,
+    "longitude": -86.51176618,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL212",
+    "buildingCode": "BL280",
+    "name": "Stemple Hall (Ashton Center)",
+    "campus": "IUB",
+    "address": "1784 E 10th St",
+    "regCode": "SL",
+    "latitude": 39.17021444,
+    "longitude": -86.51145939,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL204",
+    "buildingCode": "BL017",
+    "name": "Student Building",
+    "campus": "IUB",
+    "address": "701 E Kirkwood Ave",
+    "regCode": "SB",
+    "latitude": 39.16713278,
+    "longitude": -86.52558652,
+    "labs": [
+      { "buildingCode": "SB", "campus": "IUB", "roomNumber": "221", "macTotal": 0, "windowsTotal": 35, "linuxTotal": 0 },
+      { "buildingCode": "SB", "campus": "IUB", "roomNumber": "222", "macTotal": 0, "windowsTotal": 10, "linuxTotal": 0 },
+      { "buildingCode": "SB", "campus": "IUB", "roomNumber": "230", "macTotal": 0, "windowsTotal": 23, "linuxTotal": 0 }
+    ],
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL47",
+    "buildingCode": "BL013A",
+    "name": "Student Legal Services",
+    "campus": "IUB",
+    "address": "703 E 7th St",
+    "regCode": "LV",
+    "latitude": 39.16875087,
+    "longitude": -86.52555503,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL226",
+    "buildingCode": "BL316",
+    "name": "Student Services, Student Central",
+    "campus": "IUB",
+    "address": "408 N Union St",
+    "regCode": "CU",
+    "latitude": 39.16907252,
+    "longitude": -86.50868105,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL12",
+    "buildingCode": "BL061",
+    "name": "Swain Hall East",
+    "campus": "IUB",
+    "address": "729 E 3rd St",
+    "regCode": "SE",
+    "latitude": 39.16471961,
+    "longitude": -86.5241929,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL384",
+    "buildingCode": "BL027",
+    "name": "Swain Hall West",
+    "campus": "IUB",
+    "address": "727 E 3rd St",
+    "regCode": "SW",
+    "latitude": 39.16475211,
+    "longitude": -86.52486478,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL221",
+    "buildingCode": "BL149",
+    "name": "Sycamore Hall",
+    "campus": "IUB",
+    "address": "1033 E 3rd St",
+    "regCode": "SY",
+    "latitude": 39.16528087,
+    "longitude": -86.51903135,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL299",
+    "buildingCode": "BL602",
+    "name": "Tennis Center",
+    "campus": "IUB",
+    "address": "1833 N Fee Ln",
+    "regCode": "TP",
+    "latitude": 39.18286732,
+    "longitude": -86.52188707,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL252",
+    "buildingCode": "BL243",
+    "name": "Teter Quadrangle",
+    "campus": "IUB",
+    "address": "501 N Sunrise Dr",
+    "regCode": "TE",
+    "latitude": 39.17049444,
+    "longitude": -86.51326978,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL127",
+    "buildingCode": "BL320",
+    "name": "Theatre Annex",
+    "campus": "IUB",
+    "address": "306 N Union St",
+    "regCode": "TA",
+    "latitude": 39.16845573,
+    "longitude": -86.50903559,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL93",
+    "buildingCode": "BL172",
+    "name": "Theatre and Drama Center, Lee Norvelle/Marcellus Neal and Frances Marshall Black Culture Center",
+    "campus": "IUB",
+    "address": "275 N Jordan Ave",
+    "regCode": "TH",
+    "latitude": 39.16838663,
+    "longitude": -86.51673887,
+    "labs": [{ "buildingCode": "TH", "campus": "IUB", "roomNumber": "113A", "macTotal": 0, "windowsTotal": 10, "linuxTotal": 0 }],
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL201",
+    "buildingCode": "BL555",
+    "name": "Tulip Tree Apartments",
+    "campus": "IUB",
+    "address": "2451 E 10th St",
+    "regCode": "TT",
+    "latitude": 39.17253305,
+    "longitude": -86.50428917,
+    "labs": [{ "buildingCode": "TT", "campus": "IUB", "roomNumber": "102", "macTotal": 0, "windowsTotal": 11, "linuxTotal": 0 }],
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL285",
+    "buildingCode": "BL223",
+    "name": "University Apartments, East",
+    "campus": "IUB",
+    "address": "1603 E 3rd St",
+    "regCode": "UE",
+    "latitude": 39.1648616,
+    "longitude": -86.51416898,
+    "labs": [{ "buildingCode": "UE", "campus": "IUB", "roomNumber": "020", "macTotal": 0, "windowsTotal": 6, "linuxTotal": 0 }],
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL465",
+    "buildingCode": "BL006C",
+    "name": "Von Lee",
+    "campus": "IUB",
+    "address": "517 E Kirkwood Ave",
+    "regCode": "VL",
+    "latitude": 39.16682074,
+    "longitude": -86.52759282,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL315",
+    "buildingCode": "BL276",
+    "name": "Vos Hall (Ashton Center)",
+    "campus": "IUB",
+    "address": "1778 E 10th St",
+    "regCode": "VO",
+    "latitude": 39.17080823,
+    "longitude": -86.5114633,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL414",
+    "buildingCode": "BL049B",
+    "name": "WIUX",
+    "campus": "IUB",
+    "address": "714 E 8th St",
+    "regCode": "WX",
+    "latitude": 39.16928071,
+    "longitude": -86.52499552,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL307",
+    "buildingCode": "BL615",
+    "name": "Warehouse, IU",
+    "campus": "IUB",
+    "address": "2931 E 10th St",
+    "regCode": "X3",
+    "latitude": 39.17240481,
+    "longitude": -86.49631211,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL313",
+    "buildingCode": "BL271",
+    "name": "Weatherly Hall (Ashton Center)",
+    "campus": "IUB",
+    "address": "400 N Sunrise Dr",
+    "regCode": "WA",
+    "latitude": 39.16942962,
+    "longitude": -86.5120231,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL318",
+    "buildingCode": "BL465E",
+    "name": "Wells Scholar Program (Harlos House)",
+    "campus": "IUB",
+    "address": "1331 E 10th St",
+    "regCode": "HS",
+    "latitude": 39.17244769,
+    "longitude": -86.51658945,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL310",
+    "buildingCode": "BL245",
+    "name": "Wendell W. Wright Education Building",
+    "campus": "IUB",
+    "address": "201 N Rose Ave",
+    "regCode": "ED",
+    "latitude": 39.16713739,
+    "longitude": -86.5125391,
+    "labs": [
+      { "buildingCode": "ED", "campus": "IUB", "roomNumber": "1160", "macTotal": 0, "windowsTotal": 14, "linuxTotal": 0 },
+      { "buildingCode": "ED", "campus": "IUB", "roomNumber": "2011", "macTotal": 6, "windowsTotal": 0, "linuxTotal": 0 },
+      { "buildingCode": "ED", "campus": "IUB", "roomNumber": "2015A", "macTotal": 0, "windowsTotal": 33, "linuxTotal": 0 }
+    ],
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL873",
+    "buildingCode": "BL600",
+    "name": "Wilkinson Hall",
+    "campus": "IUB",
+    "address": null,
+    "regCode": "VW",
+    "latitude": 39.18013204,
+    "longitude": -86.51971928,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL13",
+    "buildingCode": "BL299",
+    "name": "Willkie Quadrangle (C)",
+    "campus": "IUB",
+    "address": "150 N Rose Ave",
+    "regCode": "WI",
+    "latitude": 39.1661569,
+    "longitude": -86.51039449,
+    "labs": [
+      { "buildingCode": "WI", "campus": "IUB", "roomNumber": "002", "macTotal": 0, "windowsTotal": 4, "linuxTotal": 0 },
+      { "buildingCode": "WI", "campus": "IUB", "roomNumber": "100", "macTotal": 0, "windowsTotal": 16, "linuxTotal": 0 }
+    ],
+    "diningLocations": [
+      {
+        "diningId": 38,
+        "name": "Hoosier Store at Willkie",
+        "description": "Value-priced convenience store offering groceries, household essentials, and locally-prepared Fresh Fork healthy meals",
+        "hours": null,
+        "status": null
+      }
+    ]
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL160",
+    "buildingCode": "BL133",
+    "name": "Woodburn Hall",
+    "campus": "IUB",
+    "address": "1100 E 7th St",
+    "regCode": "WH",
+    "latitude": 39.16810694,
+    "longitude": -86.52009964,
+    "labs": [
+      { "buildingCode": "WH", "campus": "IUB", "roomNumber": "211", "macTotal": 0, "windowsTotal": 15, "linuxTotal": 0 },
+      { "buildingCode": "WH", "campus": "IUB", "roomNumber": "299", "macTotal": 0, "windowsTotal": 1, "linuxTotal": 0 }
+    ],
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL177",
+    "buildingCode": "BSD150",
+    "name": "Woodlawn Field",
+    "campus": "IUB",
+    "address": " ",
+    "regCode": "WF",
+    "latitude": 39.17089763,
+    "longitude": -86.5218441,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL298",
+    "buildingCode": "BL044D",
+    "name": "Workshop in Political Theory and Policy Analysis",
+    "campus": "IUB",
+    "address": "513 N Park Ave",
+    "regCode": "ZB",
+    "latitude": 39.17105659,
+    "longitude": -86.52495909,
+    "labs": null,
+    "diningLocations": []
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL15",
+    "buildingCode": "BL237",
+    "name": "Wright Quadrangle",
+    "campus": "IUB",
+    "address": "501 N Jordan Ave",
+    "regCode": "WT",
+    "latitude": 39.1704247,
+    "longitude": -86.51458137,
+    "labs": [
+      { "buildingCode": "WT", "campus": "IUB", "roomNumber": "002", "macTotal": 0, "windowsTotal": 5, "linuxTotal": 0 },
+      { "buildingCode": "WT", "campus": "IUB", "roomNumber": "003", "macTotal": 0, "windowsTotal": 8, "linuxTotal": 0 }
+    ],
+    "diningLocations": [
+      {
+        "diningId": 4,
+        "name": "Charley Biggs",
+        "description": "Classic sides, fried chicken, grilled chicken, and wraps.",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 5,
+        "name": "Erbert and Gerbert's",
+        "description": "Sandwich shop dedicated to serving more flavorful sandwiches and soups.",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 6,
+        "name": "Flame Burgers & Grill",
+        "description": "Delicious char-grilled burgers with a variety of sandwiches, customizable protein choices, and sides.",
+        "hours": null,
+        "status": null
+      },
+      { "diningId": 7, "name": "Bueno", "description": "Freshly-prepared Mexican food", "hours": null, "status": null },
+      { "diningId": 8, "name": "Eastern Harvest", "description": "Rotating Asian cuisine", "hours": null, "status": null },
+      {
+        "diningId": 9,
+        "name": "Farmers Table",
+        "description": "Rotating menu of brunch and dinner classics with healthy options.",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 10,
+        "name": "Salad Bar",
+        "description": "Build-your-own fruit and yogurt bar for breakfast, and a salad and potato bar for lunch and dinner",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 11,
+        "name": "Hoosier Cafe and Store at Wright",
+        "description": "Cafe and convenience store with a made-to-order deli, groceries, and household essentials.",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 3,
+        "name": "Amore Ristorante",
+        "description": "Italian food, including entrees, pasta, pizza, and salads.",
+        "hours": null,
+        "status": null
+      },
+      {
+        "diningId": 22,
+        "name": "Campus Cafe at Wendell W. Wright School of Education",
+        "description": "Quick, convenient campus cafe offering Hubbard & Cravens coffee, salads, and sandwiches",
+        "hours": null,
+        "status": null
+      }
+    ]
+  },
+  {
+    "buildingIdentifier": "BUILDINGS_BL94",
+    "buildingCode": "BL057",
+    "name": "Wylie Hall",
+    "campus": "IUB",
+    "address": "100 S Woodlawn Ave",
+    "regCode": "WY",
+    "latitude": 39.16648863,
+    "longitude": -86.52357903,
+    "labs": [{ "buildingCode": "WY", "campus": "IUB", "roomNumber": "125", "macTotal": 0, "windowsTotal": 31, "linuxTotal": 0 }],
+    "diningLocations": []
+  }
+]
